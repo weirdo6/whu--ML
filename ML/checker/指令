@@ -1,0 +1,1 @@
+.\checker.exe ..\data\input\testcase1.in ..\data\output\output1.txt >report_log\ report.log

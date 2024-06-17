@@ -1,0 +1,2225 @@
+fuel 0 444
+missile 0 4
+move 0 2
+fuel 1 203
+missile 1 276
+move 1 0
+fuel 2 491
+missile 2 790
+move 2 2
+fuel 3 87
+missile 3 106
+move 3 0
+fuel 4 440
+missile 4 9
+move 4 3
+fuel 5 47
+missile 5 803
+move 5 0
+fuel 6 184
+missile 6 246
+move 6 3
+fuel 7 248
+missile 7 783
+move 7 0
+OK
+attack 0 1 3
+move 0 3
+attack 1 3 5
+move 1 0
+attack 2 2 2
+move 2 0
+fuel 3 153
+move 3 0
+move 4 1
+fuel 5 103
+missile 5 114
+move 5 0
+fuel 6 1
+move 6 3
+fuel 7 1
+move 7 3
+OK
+fuel 0 2
+missile 0 3
+move 0 3
+attack 1 0 8
+attack 1 3 4
+move 1 3
+move 2 0
+attack 3 2 9
+move 3 0
+fuel 4 2
+move 4 1
+attack 5 2 8
+move 5 2
+attack 6 3 2
+move 6 0
+fuel 7 1
+move 7 0
+OK
+attack 0 1 4
+attack 0 1 0
+attack 0 1 0
+attack 0 1 0
+attack 1 0 3
+attack 1 3 2
+move 1 3
+fuel 2 3
+missile 2 2
+move 2 2
+attack 3 2 2
+move 3 0
+fuel 4 1
+move 4 1
+attack 5 2 9
+move 5 2
+attack 6 0 10
+attack 6 3 2
+move 6 3
+move 7 0
+OK
+move 0 2
+fuel 0 2
+missile 0 4
+attack 1 1 8
+move 1 1
+attack 2 2 9
+move 2 0
+attack 3 2 3
+move 3 0
+attack 4 1 3
+move 4 3
+move 5 2
+move 6 0
+attack 7 0 7
+move 7 0
+OK
+move 0 3
+attack 1 3 3
+move 1 3
+fuel 2 2
+missile 2 9
+move 2 2
+attack 3 2 3
+move 3 0
+attack 4 1 6
+attack 4 1 0
+attack 4 1 0
+attack 4 1 0
+move 5 2
+move 6 0
+attack 7 0 10
+attack 7 3 5
+move 7 3
+OK
+attack 0 1 3
+move 0 0
+attack 1 3 8
+move 1 3
+attack 2 2 8
+move 2 2
+move 3 0
+move 4 0
+attack 5 1 4
+move 5 0
+move 6 0
+move 7 0
+OK
+attack 0 3 1
+move 0 3
+attack 1 0 10
+move 1 0
+move 2 1
+attack 3 0 1
+attack 3 2 9
+move 3 2
+move 4 2
+fuel 4 4
+missile 4 9
+attack 5 0 1
+attack 5 2 3
+move 5 2
+fuel 6 6
+missile 6 14
+move 6 2
+move 7 2
+OK
+move 0 0
+move 1 0
+attack 2 1 4
+move 2 1
+attack 3 0 6
+attack 3 2 9
+move 3 2
+move 4 3
+attack 5 0 3
+move 5 0
+move 6 2
+attack 7 2 4
+move 7 0
+OK
+move 0 0
+move 1 0
+move 2 0
+attack 3 0 2
+attack 3 1 8
+move 3 1
+move 4 1
+attack 5 0 8
+attack 5 2 9
+move 5 2
+move 6 0
+attack 7 2 9
+move 7 0
+OK
+move 0 2
+fuel 0 6
+missile 0 4
+attack 1 3 4
+move 1 0
+move 2 0
+attack 3 2 5
+move 3 2
+attack 4 1 2
+move 4 1
+attack 5 0 4
+move 5 0
+move 6 0
+fuel 7 8
+missile 7 35
+move 7 2
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 2
+attack 4 1 4
+move 4 1
+move 5 0
+fuel 6 4
+move 6 2
+move 7 2
+OK
+attack 0 3 4
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+attack 1 2 2
+move 1 0
+move 2 0
+attack 3 1 6
+move 3 1
+move 4 1
+attack 5 0 8
+attack 5 3 10
+move 5 3
+move 6 2
+attack 7 2 1
+move 7 2
+OK
+move 0 2
+fuel 0 2
+missile 0 4
+attack 1 0 6
+attack 1 2 9
+move 1 2
+attack 2 0 3
+move 2 0
+attack 3 1 9
+move 3 3
+move 4 1
+move 5 3
+move 6 2
+move 7 2
+OK
+move 0 3
+attack 1 0 5
+move 1 0
+attack 2 0 9
+move 2 3
+attack 3 1 4
+move 3 1
+move 4 1
+attack 5 1 1
+move 5 1
+move 6 2
+attack 7 2 10
+move 7 0
+OK
+attack 0 3 4
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+attack 1 0 10
+move 1 0
+move 2 3
+move 3 3
+fuel 4 7
+missile 4 6
+move 4 1
+move 5 2
+move 6 0
+attack 7 2 3
+move 7 0
+OK
+move 0 2
+fuel 0 2
+missile 0 4
+attack 1 3 9
+attack 1 2 1
+move 1 2
+fuel 2 11
+missile 2 24
+move 2 3
+move 3 1
+move 4 1
+move 5 2
+move 6 0
+attack 7 2 7
+attack 7 3 5
+move 7 3
+OK
+move 0 3
+move 1 2
+attack 2 3 1
+move 2 3
+attack 3 1 6
+move 3 1
+attack 4 1 8
+move 4 1
+move 5 2
+move 6 0
+move 7 0
+OK
+attack 0 3 2
+move 0 0
+attack 1 2 8
+move 1 2
+attack 2 3 9
+attack 2 1 9
+move 2 1
+move 3 0
+move 4 1
+attack 5 1 8
+move 5 1
+attack 6 2 9
+move 6 0
+move 7 0
+OK
+attack 0 3 2
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+attack 1 2 2
+move 1 2
+move 2 0
+move 3 2
+move 4 1
+attack 5 1 3
+move 5 1
+attack 6 2 7
+move 6 0
+move 7 0
+OK
+move 0 2
+attack 1 1 3
+move 1 1
+attack 2 0 4
+move 2 0
+move 3 2
+move 4 1
+move 5 1
+move 6 2
+move 7 0
+OK
+move 0 2
+fuel 0 4
+missile 0 4
+attack 1 1 5
+move 1 1
+move 2 0
+move 3 2
+fuel 4 6
+missile 4 8
+move 4 1
+attack 5 1 9
+move 5 1
+attack 6 2 3
+move 6 0
+attack 7 0 3
+move 7 0
+OK
+move 0 3
+attack 1 3 10
+move 1 3
+move 2 0
+attack 3 2 6
+move 3 0
+attack 4 1 6
+move 4 2
+move 5 3
+move 6 2
+attack 7 0 9
+move 7 2
+OK
+move 0 3
+attack 1 1 4
+move 1 1
+move 2 0
+move 3 2
+attack 4 2 3
+attack 4 2 0
+attack 4 2 0
+attack 4 2 0
+move 5 3
+attack 6 2 1
+move 6 2
+move 7 2
+OK
+attack 0 3 4
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+attack 1 1 4
+move 1 1
+attack 2 0 2
+move 2 0
+attack 3 2 10
+move 3 0
+move 4 0
+attack 5 1 8
+move 5 1
+attack 6 2 8
+move 6 2
+fuel 7 14
+missile 7 38
+move 7 2
+OK
+move 0 2
+attack 1 3 2
+move 1 3
+attack 2 0 4
+move 2 2
+move 3 0
+move 4 0
+fuel 4 4
+missile 4 9
+move 5 1
+attack 6 2 2
+move 6 0
+fuel 7 1
+move 7 2
+OK
+move 0 2
+fuel 0 4
+missile 0 4
+move 1 2
+attack 2 2 3
+move 2 0
+attack 3 0 8
+move 3 0
+move 4 2
+attack 5 1 9
+move 5 1
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 2
+attack 2 0 7
+attack 2 2 1
+move 2 2
+move 3 1
+fuel 4 1
+move 4 1
+attack 5 3 7
+move 5 3
+attack 6 2 7
+attack 6 0 5
+move 6 0
+move 7 2
+OK
+move 0 3
+attack 1 2 2
+move 1 2
+attack 2 0 5
+move 2 0
+move 3 2
+attack 4 1 7
+move 4 2
+attack 5 3 9
+move 5 0
+move 6 0
+move 7 2
+OK
+attack 0 3 4
+move 0 3
+attack 1 2 9
+attack 1 1 2
+move 1 1
+move 2 0
+move 3 2
+attack 4 2 2
+attack 4 2 0
+attack 4 2 0
+attack 4 2 0
+attack 5 3 3
+move 5 3
+attack 6 2 6
+move 6 0
+attack 7 2 9
+move 7 0
+OK
+move 0 2
+attack 1 2 4
+move 1 2
+move 2 3
+move 3 1
+move 4 0
+fuel 4 3
+missile 4 9
+move 5 3
+attack 6 2 7
+attack 6 3 2
+move 6 3
+attack 7 2 8
+move 7 2
+OK
+move 0 2
+move 1 0
+move 2 3
+move 3 2
+move 4 2
+attack 5 1 4
+move 5 1
+move 6 0
+attack 7 0 5
+attack 7 2 8
+move 7 2
+OK
+move 0 2
+fuel 0 6
+missile 0 4
+attack 1 0 8
+move 1 0
+move 2 3
+move 3 2
+attack 4 1 8
+move 4 3
+attack 5 1 2
+move 5 1
+attack 6 3 10
+move 6 3
+attack 7 0 2
+move 7 0
+OK
+move 0 0
+attack 1 2 9
+move 1 2
+attack 2 3 3
+move 2 0
+move 3 2
+fuel 4 2
+missile 4 8
+move 4 1
+attack 5 3 4
+move 5 3
+move 6 0
+attack 7 0 4
+move 7 0
+OK
+fuel 0 1
+move 0 0
+attack 1 2 1
+move 1 2
+move 2 0
+move 3 2
+fuel 3 34
+missile 3 106
+move 4 1
+move 5 3
+move 6 2
+attack 7 0 9
+attack 7 3 3
+move 7 3
+OK
+move 0 0
+attack 1 2 4
+attack 1 1 9
+move 1 1
+move 2 0
+move 3 0
+attack 4 1 4
+move 4 1
+move 5 3
+move 6 2
+move 7 0
+OK
+attack 0 2 3
+move 0 0
+attack 1 2 2
+move 1 2
+move 2 0
+attack 3 3 2
+move 3 0
+attack 4 3 4
+move 4 3
+fuel 5 35
+missile 5 134
+move 5 3
+attack 6 2 5
+move 6 2
+attack 7 0 9
+move 7 2
+OK
+fuel 0 3
+missile 0 3
+move 0 0
+attack 1 2 10
+move 1 2
+fuel 2 21
+missile 2 48
+move 2 0
+attack 3 0 4
+move 3 0
+attack 4 3 1
+fuel 5 1
+move 5 3
+move 6 2
+attack 7 2 2
+move 7 0
+OK
+attack 0 2 4
+attack 0 2 0
+attack 0 2 0
+attack 0 2 0
+attack 1 0 7
+move 1 0
+attack 2 2 3
+move 2 0
+attack 3 2 9
+move 3 3
+move 4 0
+attack 5 3 6
+move 5 0
+move 6 2
+attack 7 2 4
+move 7 2
+OK
+move 0 0
+fuel 0 2
+missile 0 4
+attack 1 0 9
+move 1 0
+attack 2 3 7
+attack 2 2 7
+move 2 2
+attack 3 3 1
+move 3 3
+move 4 0
+attack 5 3 5
+move 5 0
+move 6 2
+move 7 2
+OK
+move 0 2
+attack 1 0 5
+attack 1 3 9
+move 1 3
+move 2 0
+attack 3 1 4
+move 3 3
+move 4 0
+fuel 4 7
+missile 4 9
+move 5 3
+move 6 2
+attack 7 2 7
+move 7 2
+OK
+attack 0 2 3
+attack 0 1 1
+move 1 0
+move 2 0
+attack 3 1 5
+move 3 1
+move 4 3
+attack 5 3 3
+move 5 3
+move 6 2
+attack 7 2 9
+move 7 2
+OK
+move 0 3
+fuel 0 2
+missile 0 4
+attack 1 0 1
+move 1 2
+attack 2 2 9
+move 2 2
+attack 3 3 9
+move 3 3
+fuel 4 1
+move 4 3
+move 5 3
+move 6 2
+attack 7 1 5
+move 7 2
+OK
+move 0 2
+move 1 2
+move 2 2
+attack 3 3 6
+move 3 3
+move 4 1
+attack 5 1 9
+move 5 1
+move 6 2
+attack 7 2 8
+attack 7 1 1
+move 7 1
+OK
+attack 0 1 2
+move 0 1
+attack 1 2 4
+move 1 0
+attack 2 1 9
+move 2 1
+attack 3 0 1
+move 3 0
+fuel 4 2
+move 4 2
+move 5 2
+move 6 3
+attack 7 2 6
+move 7 2
+OK
+attack 0 2 2
+attack 0 2 0
+attack 0 2 0
+attack 0 2 0
+attack 1 2 2
+move 1 2
+move 2 2
+move 3 3
+move 4 1
+attack 5 1 2
+move 5 1
+move 6 1
+attack 7 1 9
+move 7 1
+OK
+move 0 0
+attack 1 2 6
+move 1 0
+move 2 2
+attack 3 3 10
+move 3 3
+move 4 0
+move 5 0
+attack 6 1 7
+move 6 1
+attack 7 1 1
+move 7 1
+OK
+move 0 3
+fuel 0 4
+missile 0 4
+attack 1 0 4
+move 1 0
+attack 2 2 5
+move 2 2
+move 3 2
+move 4 2
+move 5 0
+attack 6 3 3
+move 6 3
+attack 7 3 3
+move 7 3
+OK
+move 0 3
+attack 1 0 5
+attack 1 2 6
+move 1 2
+attack 2 1 1
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 0
+attack 2 1 4
+move 2 1
+move 3 2
+move 4 2
+move 5 2
+move 6 2
+attack 7 1 3
+move 7 1
+OK
+attack 0 3 4
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+attack 1 0 4
+move 1 0
+attack 2 1 3
+move 2 1
+move 3 2
+move 4 2
+move 5 2
+move 6 2
+attack 7 1 9
+move 7 1
+OK
+move 0 2
+attack 1 3 7
+move 1 0
+attack 2 1 7
+move 2 1
+move 3 1
+move 4 2
+move 5 2
+attack 6 2 6
+move 6 2
+attack 7 3 6
+move 7 3
+OK
+move 0 2
+fuel 0 4
+missile 0 4
+attack 1 3 4
+move 1 3
+attack 2 3 7
+move 2 3
+attack 3 1 1
+move 3 1
+fuel 4 8
+move 4 2
+move 5 2
+attack 6 2 3
+move 6 2
+move 7 1
+OK
+move 0 3
+attack 1 3 8
+move 1 3
+attack 2 3 2
+move 2 3
+attack 3 2 1
+move 3 2
+move 4 2
+move 5 2
+attack 6 1 4
+move 6 1
+move 7 1
+OK
+move 0 3
+move 1 2
+move 2 2
+move 3 0
+move 4 2
+fuel 5 17
+missile 5 25
+move 5 2
+attack 6 2 7
+move 6 2
+fuel 7 29
+missile 7 130
+move 7 1
+OK
+attack 0 3 2
+move 0 0
+move 1 1
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+attack 6 2 9
+move 6 2
+attack 7 1 5
+move 7 2
+OK
+attack 0 3 2
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+move 1 1
+attack 2 1 4
+move 2 1
+move 3 2
+move 4 2
+move 5 2
+attack 6 2 9
+move 6 2
+attack 7 1 10
+move 7 2
+OK
+move 0 2
+move 1 1
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+attack 6 2 4
+move 6 2
+attack 7 1 6
+move 7 1
+OK
+move 0 2
+move 1 3
+attack 2 2 4
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+attack 6 1 7
+move 6 1
+attack 7 1 3
+move 7 1
+OK
+move 0 1
+fuel 0 6
+missile 0 4
+move 1 3
+fuel 1 60
+missile 1 276
+attack 2 2 2
+move 2 0
+attack 3 2 5
+move 3 2
+move 4 2
+move 5 2
+attack 6 2 9
+move 6 2
+attack 7 3 8
+move 7 3
+OK
+move 0 0
+move 1 0
+attack 2 2 10
+move 2 2
+attack 3 2 10
+move 3 2
+move 4 2
+move 5 2
+attack 6 2 4
+move 6 2
+move 7 1
+OK
+move 0 0
+attack 1 2 2
+move 1 0
+move 2 1
+attack 3 1 6
+move 3 1
+move 4 2
+move 5 2
+attack 6 2 1
+move 6 2
+move 7 1
+OK
+attack 0 2 3
+move 0 3
+attack 1 0 9
+attack 1 2 1
+move 1 2
+attack 2 1 8
+move 2 1
+move 3 3
+move 4 2
+move 5 2
+move 6 0
+move 7 1
+OK
+move 0 3
+move 1 2
+attack 2 1 5
+move 2 1
+move 3 3
+fuel 4 11
+move 4 2
+fuel 5 9
+move 5 2
+attack 6 3 6
+move 6 3
+attack 7 2 1
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 2
+fuel 3 29
+missile 3 74
+move 3 3
+move 4 2
+move 5 2
+attack 6 0 1
+move 6 0
+move 7 0
+OK
+attack 0 3 1
+attack 0 3 0
+attack 0 3 0
+attack 0 3 0
+move 1 2
+attack 2 1 3
+move 2 1
+move 3 1
+move 4 2
+move 5 2
+attack 6 3 10
+move 6 3
+attack 7 2 3
+move 7 2
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 1
+fuel 4 3
+move 4 2
+move 5 2
+move 6 0
+move 7 2
+OK
+move 0 0
+move 1 1
+move 2 3
+move 3 1
+fuel 4 1
+move 4 2
+fuel 5 4
+move 5 2
+attack 6 2 10
+move 6 2
+move 7 2
+OK
+move 0 0
+attack 1 1 9
+move 1 3
+move 2 3
+attack 3 1 10
+move 3 1
+fuel 4 1
+move 4 2
+fuel 5 1
+move 5 2
+attack 6 2 1
+move 6 2
+fuel 7 3
+missile 7 36
+move 7 2
+OK
+move 0 2
+fuel 0 9
+missile 0 4
+move 1 1
+move 2 3
+move 3 2
+attack 4 2 8
+move 4 0
+move 5 2
+move 6 0
+fuel 7 12
+move 7 2
+OK
+move 0 0
+attack 1 1 7
+move 1 1
+attack 2 3 6
+move 2 2
+move 3 2
+attack 4 2 1
+attack 4 2 0
+attack 4 2 0
+attack 4 2 0
+attack 5 2 1
+move 5 0
+attack 6 3 7
+move 6 3
+attack 7 2 9
+move 7 2
+OK
+move 0 3
+attack 1 1 9
+move 1 1
+move 2 2
+move 3 2
+move 4 3
+fuel 5 3
+missile 5 1
+move 5 0
+attack 6 3 6
+move 6 3
+attack 7 2 2
+move 7 0
+OK
+attack 0 3 1
+move 0 3
+attack 1 1 5
+move 1 2
+move 2 1
+move 3 2
+move 4 1
+fuel 4 4
+missile 4 9
+move 5 0
+move 6 0
+attack 7 2 3
+move 7 0
+OK
+attack 0 3 2
+move 0 3
+attack 1 2 1
+attack 1 1 4
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+attack 5 2 5
+move 5 2
+attack 6 2 3
+move 6 2
+attack 7 2 8
+move 7 0
+OK
+attack 0 3 1
+attack 1 2 9
+move 1 2
+fuel 2 37
+missile 2 106
+move 2 1
+move 3 2
+move 4 2
+move 5 2
+move 6 0
+attack 7 2 5
+move 7 2
+OK
+move 0 0
+attack 1 1 2
+move 1 1
+fuel 2 1
+move 2 1
+move 3 2
+move 4 2
+attack 5 2 7
+move 5 0
+attack 6 2 9
+move 6 2
+attack 7 2 1
+attack 7 0 7
+move 7 0
+OK
+move 0 0
+attack 1 1 9
+move 1 1
+attack 2 1 4
+move 2 2
+move 3 2
+move 4 0
+move 5 2
+move 6 2
+move 7 0
+OK
+move 0 2
+fuel 0 7
+missile 0 4
+attack 1 3 8
+move 1 3
+fuel 2 2
+missile 2 4
+move 2 2
+attack 3 1 2
+move 3 1
+move 4 2
+attack 5 2 3
+move 5 0
+attack 6 1 5
+move 6 1
+attack 7 2 4
+move 7 2
+OK
+move 0 0
+move 1 2
+fuel 2 1
+move 2 2
+move 3 2
+move 4 0
+attack 5 2 4
+move 5 2
+attack 6 2 3
+move 6 2
+attack 7 2 9
+attack 7 0 6
+move 7 0
+OK
+fuel 0 1
+move 0 0
+attack 1 1 10
+move 1 1
+move 2 2
+move 3 0
+fuel 4 6
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+OK
+attack 0 2 4
+attack 0 2 0
+attack 0 2 0
+attack 0 2 0
+move 1 2
+move 2 2
+move 3 0
+move 4 2
+attack 5 2 3
+move 5 1
+attack 6 2 8
+move 6 1
+attack 7 2 1
+move 7 2
+OK
+move 0 1
+fuel 0 2
+missile 0 4
+attack 1 1 4
+move 1 1
+move 2 2
+move 3 2
+move 4 2
+attack 5 1 7
+move 5 1
+move 6 1
+attack 7 2 6
+attack 7 1 6
+move 7 1
+OK
+move 0 0
+move 1 0
+fuel 2 4
+move 2 2
+move 3 2
+move 4 2
+attack 5 2 4
+move 5 2
+attack 6 1 9
+move 6 1
+move 7 3
+OK
+attack 0 2 4
+move 0 0
+move 1 2
+fuel 2 1
+move 2 2
+attack 3 2 6
+move 3 0
+move 4 2
+attack 5 1 7
+move 5 1
+attack 6 1 2
+move 6 2
+attack 7 1 6
+move 7 1
+OK
+move 0 3
+fuel 1 24
+missile 1 89
+move 1 2
+move 2 2
+attack 3 2 8
+move 3 2
+attack 4 1 1
+move 4 1
+attack 5 1 4
+move 5 1
+attack 6 2 7
+move 6 2
+attack 7 1 2
+move 7 1
+OK
+move 0 3
+fuel 0 4
+missile 0 4
+attack 1 2 2
+move 1 2
+attack 2 1 4
+move 2 0
+move 3 2
+move 4 2
+attack 5 1 9
+move 5 1
+attack 6 1 8
+move 6 1
+attack 7 2 6
+move 7 2
+OK
+move 0 2
+attack 1 2 7
+move 1 0
+move 2 0
+move 3 2
+move 4 2
+attack 5 1 7
+move 5 1
+attack 6 1 5
+move 6 1
+move 7 1
+OK
+move 0 2
+attack 1 2 7
+move 1 0
+move 2 0
+attack 3 2 1
+move 3 2
+attack 4 2 8
+attack 4 2 0
+attack 4 2 0
+attack 4 2 0
+attack 5 3 8
+move 5 3
+attack 6 3 1
+attack 7 1 10
+move 7 1
+OK
+attack 0 2 1
+move 0 0
+move 1 0
+attack 2 0 1
+move 2 0
+attack 3 1 4
+move 3 0
+move 4 0
+move 5 2
+move 6 0
+attack 7 3 5
+move 7 2
+OK
+move 0 0
+move 1 2
+attack 2 0 4
+move 2 0
+attack 3 2 7
+move 3 0
+move 4 0
+fuel 4 10
+missile 4 9
+attack 5 2 9
+move 5 2
+move 6 0
+attack 7 2 10
+move 7 2
+OK
+attack 0 0 1
+move 0 0
+move 1 2
+attack 2 0 6
+move 2 2
+attack 3 2 2
+move 3 2
+move 4 2
+attack 5 0 1
+move 5 0
+move 6 0
+attack 7 2 8
+move 7 2
+OK
+attack 0 0 2
+attack 0 0 0
+attack 0 0 0
+attack 0 0 0
+attack 1 2 1
+attack 1 1 9
+move 1 1
+attack 2 2 1
+move 2 2
+move 3 2
+fuel 4 1
+move 4 2
+attack 5 2 7
+move 5 2
+move 6 3
+fuel 6 80
+missile 6 246
+attack 7 2 2
+attack 7 1 2
+move 7 1
+OK
+move 0 3
+move 1 1
+attack 2 1 6
+move 2 2
+attack 3 1 4
+move 3 1
+attack 4 2 1
+move 4 2
+move 5 0
+move 6 1
+attack 7 1 4
+move 7 1
+OK
+move 0 3
+attack 1 1 7
+move 1 1
+attack 2 1 2
+move 2 1
+move 3 2
+attack 4 2 2
+move 4 1
+attack 5 2 6
+move 5 2
+move 6 1
+move 7 3
+OK
+move 0 1
+fuel 0 8
+missile 0 4
+move 1 3
+attack 2 2 7
+move 2 2
+attack 3 1 2
+move 3 2
+attack 4 1 4
+move 4 1
+move 5 0
+attack 6 1 5
+move 6 1
+move 7 2
+OK
+move 0 0
+attack 1 1 7
+move 1 1
+move 2 2
+attack 3 2 5
+attack 3 1 7
+move 3 1
+attack 4 2 2
+attack 4 2 0
+attack 4 2 0
+attack 4 2 0
+attack 5 2 5
+move 5 0
+attack 6 3 4
+move 6 3
+move 7 2
+OK
+move 0 0
+attack 1 1 8
+move 1 1
+attack 2 2 5
+move 2 2
+attack 3 2 10
+move 3 1
+move 4 0
+attack 5 2 10
+move 5 0
+attack 6 3 8
+move 6 3
+move 7 2
+OK
+move 0 0
+attack 1 2 3
+move 1 2
+attack 2 2 10
+move 2 2
+attack 3 1 1
+move 3 1
+move 4 0
+attack 5 2 1
+move 5 2
+attack 6 0 6
+move 6 0
+move 7 0
+OK
+attack 0 0 3
+attack 0 2 1
+move 1 2
+attack 2 1 10
+move 2 1
+move 3 0
+move 4 3
+attack 5 2 1
+move 5 2
+attack 6 3 2
+move 6 3
+attack 7 2 3
+move 7 1
+OK
+move 0 3
+fuel 0 4
+missile 0 4
+move 1 2
+attack 2 1 8
+move 2 1
+move 3 0
+move 4 3
+fuel 4 8
+missile 4 9
+move 5 2
+attack 6 0 7
+move 6 0
+move 7 3
+OK
+move 0 2
+move 1 2
+attack 2 3 1
+move 2 3
+move 3 0
+move 4 2
+attack 5 2 8
+attack 5 1 5
+move 5 1
+move 6 2
+move 7 3
+OK
+attack 0 2 4
+move 1 2
+attack 2 3 5
+move 2 3
+move 3 0
+move 4 2
+attack 5 1 10
+move 5 1
+move 6 2
+move 7 1
+OK
+move 0 3
+fuel 0 2
+missile 0 4
+move 1 2
+attack 2 3 9
+move 2 3
+attack 3 2 1
+move 3 0
+move 4 2
+attack 5 1 3
+move 5 1
+move 6 1
+attack 7 1 4
+move 7 1
+OK
+move 0 2
+move 1 2
+attack 2 3 2
+move 2 3
+move 3 2
+move 4 2
+attack 5 1 1
+move 5 1
+move 6 1
+move 7 1
+OK
+attack 0 2 3
+move 0 2
+move 1 1
+move 2 2
+attack 3 2 10
+move 3 0
+move 4 2
+move 5 3
+attack 6 1 10
+move 6 1
+attack 7 1 3
+move 7 1
+OK
+attack 0 2 1
+attack 0 2 0
+attack 0 2 0
+attack 0 2 0
+move 1 2
+attack 2 1 3
+move 2 1
+fuel 3 41
+missile 3 80
+move 3 2
+attack 4 1 2
+move 4 2
+attack 5 3 1
+move 5 3
+move 6 2
+attack 7 2 1
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 2
+move 3 2
+attack 4 2 3
+attack 4 1 4
+attack 5 1 6
+move 5 3
+attack 6 1 8
+move 6 1
+move 7 3
+OK
+move 0 3
+fuel 0 4
+missile 0 4
+move 1 2
+attack 2 1 4
+move 2 1
+move 3 2
+move 4 3
+attack 5 1 6
+move 5 1
+attack 6 2 3
+move 6 2
+move 7 2
+OK
+move 0 0
+move 1 1
+move 2 2
+move 3 2
+move 4 3
+move 5 2
+attack 6 2 5
+move 6 2
+move 7 2
+OK
+move 0 0
+attack 1 1 10
+move 1 1
+attack 2 2 2
+move 2 2
+attack 3 2 4
+move 3 2
+move 4 3
+attack 5 2 8
+move 5 2
+attack 6 2 2
+move 6 0
+move 7 1
+OK
+move 0 2
+attack 1 2 2
+move 1 2
+attack 2 1 9
+move 2 1
+attack 3 2 3
+move 3 2
+move 4 3
+move 5 2
+attack 6 2 5
+move 6 2
+move 7 3
+OK
+move 0 2
+move 1 1
+attack 2 3 8
+move 2 3
+move 3 2
+move 4 3
+move 5 2
+move 6 1
+move 7 1
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 1
+move 4 3
+fuel 4 12
+missile 4 9
+move 5 2
+attack 6 1 8
+move 6 1
+move 7 1
+OK
+move 0 1
+move 1 2
+move 2 1
+attack 3 1 5
+move 3 2
+move 4 2
+attack 5 1 8
+move 5 0
+attack 6 2 7
+move 6 2
+move 7 1
+OK
+move 0 2
+move 1 2
+attack 2 1 4
+move 2 1
+attack 3 1 8
+move 3 3
+move 4 2
+attack 5 2 7
+move 5 0
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 3
+move 3 1
+move 4 2
+attack 5 2 8
+move 5 2
+move 6 2
+move 7 2
+OK
+move 0 1
+move 1 2
+attack 2 1 2
+move 2 1
+attack 3 1 4
+move 3 1
+move 4 2
+attack 5 2 3
+move 5 0
+move 6 2
+attack 7 2 7
+move 7 2
+OK
+move 0 2
+move 1 2
+attack 2 3 2
+move 2 3
+move 3 2
+move 4 2
+attack 5 0 4
+move 5 0
+move 6 2
+attack 7 1 6
+move 7 1
+OK
+move 0 1
+move 1 2
+move 2 2
+attack 3 1 2
+move 3 1
+move 4 2
+attack 5 2 8
+move 5 2
+move 6 2
+move 7 0
+OK
+attack 0 2 2
+move 0 2
+move 1 1
+move 2 2
+attack 3 2 8
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+attack 7 2 10
+move 7 2
+OK
+move 0 2
+move 1 1
+move 2 2
+move 3 2
+move 4 2
+attack 5 2 4
+move 5 2
+attack 6 1 1
+move 6 0
+move 7 2
+OK
+move 0 1
+move 1 0
+attack 2 2 5
+move 2 2
+attack 3 1 8
+move 3 1
+move 4 2
+attack 5 1 2
+move 5 1
+move 6 0
+attack 7 1 5
+move 7 1
+OK
+move 0 1
+move 1 0
+move 2 2
+attack 3 1 1
+move 3 3
+move 4 2
+move 5 0
+move 6 0
+move 7 2
+OK
+move 0 3
+move 1 0
+move 2 2
+attack 3 1 10
+move 3 1
+move 4 2
+move 5 0
+move 6 0
+attack 7 2 2
+attack 7 1 9
+move 7 1
+OK
+move 0 0
+move 1 0
+move 2 3
+move 3 0
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+move 0 2
+move 1 0
+move 2 3
+move 3 0
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+move 0 2
+move 1 0
+move 2 3
+move 3 2
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+fuel 0 19
+missile 0 2
+move 0 2
+move 1 0
+move 2 3
+move 3 2
+fuel 4 14
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+attack 0 2 2
+move 0 0
+move 1 0
+move 2 3
+fuel 3 23
+missile 3 53
+move 3 0
+fuel 4 1
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+attack 0 2 2
+attack 0 2 0
+attack 0 2 0
+attack 0 2 0
+move 1 0
+move 2 3
+fuel 3 1
+move 3 2
+fuel 4 1
+move 4 0
+move 5 3
+attack 6 0 4
+move 6 0
+move 7 3
+OK
+move 0 3
+fuel 0 3
+missile 0 4
+move 1 0
+move 2 3
+attack 3 2 2
+move 3 0
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+move 0 0
+move 1 0
+move 2 3
+attack 3 2 8
+move 3 0
+fuel 4 2
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 0
+move 2 3
+move 3 0
+fuel 4 1
+move 4 0
+move 5 3
+move 6 0
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 0
+move 2 3
+attack 3 2 6
+move 3 3
+move 4 0
+move 5 3
+move 6 3
+move 7 3
+OK
+fuel 0 1
+move 0 3
+move 1 3
+move 2 3
+fuel 3 5
+missile 3 16
+move 3 3
+move 4 0
+move 5 3
+fuel 6 42
+missile 6 85
+move 6 3
+move 7 3
+OK
+move 0 3
+fuel 1 51
+missile 1 63
+move 1 3
+move 2 3
+move 3 3
+fuel 4 3
+move 4 3
+move 5 1
+move 6 3
+move 7 3
+OK
+fuel 0 2
+move 0 3
+move 1 3
+move 2 3
+fuel 3 2
+move 3 3
+fuel 4 1
+move 4 3
+move 5 1
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+fuel 4 1
+move 4 3
+move 5 1
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+move 5 1
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+move 5 1
+move 6 3
+move 7 1
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+attack 5 1 10
+move 5 1
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+fuel 6 7
+move 6 3
+move 7 0
+OK
+move 0 3
+fuel 1 7
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+fuel 7 75
+missile 7 172
+move 7 0
+OK
+fuel 0 9
+move 0 1
+move 1 3
+move 2 0
+fuel 3 9
+move 3 1
+attack 4 3 8
+move 4 3
+move 5 0
+fuel 6 4
+move 6 3
+fuel 7 1
+move 7 0
+OK
+move 0 3
+fuel 1 4
+move 1 3
+move 2 0
+move 3 3
+move 4 0
+move 5 0
+move 6 3
+fuel 7 1
+move 7 0
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 0
+OK
+fuel 0 3
+move 0 3
+move 1 3
+fuel 2 65
+missile 2 120
+move 2 0
+fuel 3 3
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+fuel 7 2
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 1
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+fuel 7 1
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 1
+move 2 0
+move 3 3
+move 4 3
+fuel 5 79
+missile 5 210
+move 5 0
+move 6 3
+fuel 7 1
+move 7 0
+OK
+fuel 0 3
+move 0 3
+move 1 3
+move 2 0
+fuel 3 3
+move 3 3
+move 4 3
+fuel 5 1
+move 5 0
+move 6 3
+fuel 7 1
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 2
+move 2 0
+move 3 3
+move 4 3
+fuel 5 1
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 1
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 1
+move 2 0
+move 3 3
+move 4 3
+fuel 5 2
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+move 1 3
+fuel 2 1
+move 2 0
+move 3 3
+move 4 3
+fuel 5 1
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+fuel 5 1
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+fuel 5 1
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+fuel 6 19
+move 6 3
+move 7 3
+OK
+move 0 3
+fuel 1 19
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 3
+move 4 3
+move 5 3
+move 6 3
+move 7 3
+OK
+move 0 1
+move 1 3
+move 2 3
+move 3 1
+attack 4 3 1
